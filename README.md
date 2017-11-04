@@ -23,14 +23,15 @@ This software has been tested with R v3.3.1
 --------------------------------------------------------------------------------
 Citation:
 --------------------------------------------------------------------------------
-If you use this library for your publications, please cite it as:
+If you use this library for your publications/teaching, please cite it as:
+```
 @misc{mjtools,
  author = {Marin-Jimenez, Manuel J.},
  title = {{mjTools}: An example library for R programming},
  year = {2017},
  note =   {Software available at \url{https://github.com/mjmarin/mjtools}}
 }
-
+```
 --------------------------------------------------------------------------------
 Version history:
 --------------------------------------------------------------------------------
